@@ -29,6 +29,9 @@ public class Teste3 {
         
         System.out.printf("O produto entre %d e %d é = %d ", a, b, resposta);
         
+        
+        System.out.println("Fiz uma mudança!!!");
+        
     }
     
 }
